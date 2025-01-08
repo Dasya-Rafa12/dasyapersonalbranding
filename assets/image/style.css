@@ -22,7 +22,7 @@ body {
 }
 
 .hero-image {
-    background-image: url('/project-portofolio-dasya/profile.jpg'); 
+    background-image: url('/profile.jpg'); 
     background-size: cover;
     background-position: center;
     height: 500px;
